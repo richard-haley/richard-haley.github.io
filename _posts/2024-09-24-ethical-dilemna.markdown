@@ -12,7 +12,7 @@ I have run into a Catch-22 of sorts.  When I took my first programming class, th
 
 
 
-This didn’t mean a lot before the development of the *Application Tracking System” software line.   It scans applications with a completely artificial eye.  A human would look at my resume and have questions, but a computer simply rejects it.
+This didn’t mean a lot before the development of *Application Tracking System* software.   It scans applications with a completely artificial eye.  A human would look at my resume and have questions, but a computer simply rejects it.
 
 
 
